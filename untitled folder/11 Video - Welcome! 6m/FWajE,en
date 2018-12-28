@@ -1,0 +1,460 @@
+1
+00:00:03,887 --> 00:00:05,910
+Welcome in CODAPPS.
+
+2
+00:00:05,910 --> 00:00:07,140
+I'm Clement Levallois and
+
+3
+00:00:07,140 --> 00:00:12,420
+we're going to learn how to code
+mobile apps in just eight sessions.
+
+4
+00:00:12,420 --> 00:00:14,720
+In order to give you a bit of
+background on this course,
+
+5
+00:00:14,720 --> 00:00:16,950
+I'd like to tell you
+where it's coming from.
+
+6
+00:00:16,950 --> 00:00:19,820
+Why did I want to create it.
+
+7
+00:00:19,820 --> 00:00:22,510
+It all started when I
+
+8
+00:00:22,510 --> 00:00:27,040
+moved into Lyon to the business school
+I was joining, EM Lyon Business School.
+
+9
+00:00:27,040 --> 00:00:32,500
+And in the city, in Lyon, you have a big
+entrepreneurial scene where you have
+
+10
+00:00:32,500 --> 00:00:37,530
+a lot of events for startups, for people
+who want to create their own business.
+
+11
+00:00:37,530 --> 00:00:43,122
+And what I noticed in these places,
+in this event, is that many,
+
+12
+00:00:43,122 --> 00:00:49,427
+many participants were saying, oh I
+have this great idea for a business or
+
+13
+00:00:49,427 --> 00:00:54,430
+for a project and
+you know that would be a mobile app where.
+
+14
+00:00:54,430 --> 00:00:59,524
+And then they would realize that they
+don't know how to create mobile apps so
+
+15
+00:00:59,524 --> 00:01:04,538
+that project would a bit, you know,
+slow down, and finally many projects
+
+16
+00:01:04,538 --> 00:01:09,520
+would fail because at the end
+the mobile app never materialized.
+
+17
+00:01:09,520 --> 00:01:15,300
+And I was thinking, well, that's, nowadays
+it's actually possible for beginners.
+
+18
+00:01:15,300 --> 00:01:19,170
+For beginners to create their mobile apps,
+but that's a pity,
+
+19
+00:01:19,170 --> 00:01:22,400
+nobody seems to be aware of that.
+
+20
+00:01:22,400 --> 00:01:26,810
+So I decided to create this course,
+called apps, for
+
+21
+00:01:26,810 --> 00:01:30,090
+students at EM Lyon Business School and
+
+22
+00:01:30,090 --> 00:01:34,860
+then to open this course for
+everybody globally.
+
+23
+00:01:34,860 --> 00:01:36,230
+That would need it.
+
+24
+00:01:36,230 --> 00:01:38,550
+So that's what Codapps
+will enable you to do.
+
+25
+00:01:40,460 --> 00:01:42,790
+Starting from zero skills.
+
+26
+00:01:42,790 --> 00:01:46,670
+You don't need to be a geek or
+to be familiar with computers.
+
+27
+00:01:48,250 --> 00:01:52,270
+Bringing from this to the ability
+to create your own app
+
+28
+00:01:52,270 --> 00:01:56,820
+that will work on iOS phones and tablets.
+
+29
+00:01:56,820 --> 00:02:00,970
+Devices and Windows devices as well.
+
+30
+00:02:02,390 --> 00:02:06,270
+So that's what Codapps is about and
+welcome here.
+
+31
+00:02:06,270 --> 00:02:09,350
+So now in this introduction,
+I'd like to tell you as well,
+
+32
+00:02:09,350 --> 00:02:13,480
+how should you do to
+succeed in this course?
+
+33
+00:02:13,480 --> 00:02:18,500
+So as usual, you should watch the videos,
+of course, the material.
+
+34
+00:02:18,500 --> 00:02:21,280
+Posted the videos and the PDFs.
+
+35
+00:02:21,280 --> 00:02:28,430
+But what is going to make the extra
+difference is the following.
+
+36
+00:02:28,430 --> 00:02:32,860
+You need to engage with
+other participants,
+
+37
+00:02:32,860 --> 00:02:38,760
+because books are great,
+but you could feel alone.
+
+38
+00:02:39,800 --> 00:02:44,210
+In your learning experience
+in front of your computer.
+
+39
+00:02:44,210 --> 00:02:46,020
+And that could work but
+
+40
+00:02:46,020 --> 00:02:50,280
+in many cases people can feel a bit
+discourage to be alone, right.
+
+41
+00:02:50,280 --> 00:02:54,060
+They don't have enough motivation and
+encouragement.
+
+42
+00:02:54,060 --> 00:02:56,170
+So, how do you get that?
+
+43
+00:02:56,170 --> 00:03:03,560
+Basically, you have to participate as much
+as you can in the forum of the course.
+
+44
+00:03:03,560 --> 00:03:08,800
+So that's where you can post questions,
+so don't feel shy, just post.
+
+45
+00:03:08,800 --> 00:03:12,430
+You have an issue in the course,
+just post a question.
+
+46
+00:03:12,430 --> 00:03:17,820
+Even if you think it's an easy one, just
+post it, it's gonna be completely fine.
+
+47
+00:03:17,820 --> 00:03:19,800
+Maybe you add a screenshot,
+
+48
+00:03:19,800 --> 00:03:25,770
+of a copy of your screen where
+you show where the issue is.
+
+49
+00:03:25,770 --> 00:03:28,460
+Or maybe just you explain
+what's your problem.
+
+50
+00:03:28,460 --> 00:03:32,720
+And then you will see people and
+other participants helping you, and
+
+51
+00:03:32,720 --> 00:03:37,950
+me as well, helping you correcting
+the problem if you have one.
+
+52
+00:03:37,950 --> 00:03:42,480
+The other thing we were thinking to make
+
+53
+00:03:42,480 --> 00:03:48,090
+participants in the course more motivated,
+to create a game.
+
+54
+00:03:48,090 --> 00:03:53,300
+So we call it a social game
+where you earn badges, or
+
+55
+00:03:53,300 --> 00:03:58,550
+you earn credits, if you want,
+when you find codes.
+
+56
+00:03:58,550 --> 00:04:01,330
+And I have hidden codes, you know,
+
+57
+00:04:01,330 --> 00:04:05,430
+you will see in the video,
+on the PDFs, or anywhere.
+
+58
+00:04:05,430 --> 00:04:11,080
+And the more codes you collect,
+the higher you get in the rankings.
+
+59
+00:04:11,080 --> 00:04:12,450
+So the rankings is a bit silly.
+
+60
+00:04:12,450 --> 00:04:16,413
+That's just, you know for,
+for the fame [LAUGH].
+
+61
+00:04:16,413 --> 00:04:18,860
+But I find it quite funny to, you know,
+
+62
+00:04:18,860 --> 00:04:22,000
+you're learning and
+you're trying to basically
+
+63
+00:04:23,050 --> 00:04:27,940
+find as many codes as you can in order to
+cover all the material from the course.
+
+64
+00:04:27,940 --> 00:04:31,180
+So if I make this video correctly,
+
+65
+00:04:31,180 --> 00:04:37,180
+I should put here the web address
+where you can put your codes.
+
+66
+00:04:37,180 --> 00:04:38,370
+And where do you find codes?
+
+67
+00:04:38,370 --> 00:04:40,260
+Well, they can be anywhere.
+
+68
+00:04:40,260 --> 00:04:41,160
+Just go and find them.
+
+69
+00:04:42,390 --> 00:04:45,090
+So forums, social games.
+
+70
+00:04:45,090 --> 00:04:49,780
+And yes, the last ingredient
+is one I really care about.
+
+71
+00:04:49,780 --> 00:04:52,140
+It's about local ambassadors.
+
+72
+00:04:52,140 --> 00:04:56,330
+So maybe you're watching this video and
+you are in Lyon in France.
+
+73
+00:04:56,330 --> 00:05:00,010
+Or maybe you are in New York in the US.
+
+74
+00:05:00,010 --> 00:05:05,180
+Or maybe you are in Algeria,
+Nigeria, or anywhere else.
+
+75
+00:05:07,480 --> 00:05:13,327
+What you could do is create a local
+community in your city where
+
+76
+00:05:13,327 --> 00:05:19,530
+participants of this MOOC will meet and
+discuss their progress.
+
+77
+00:05:19,530 --> 00:05:24,310
+So if you are interested in that we
+would give you a lot of visibility.
+
+78
+00:05:24,310 --> 00:05:29,460
+We would basically talk
+about you on social media.
+
+79
+00:05:29,460 --> 00:05:33,770
+We would really like to reward you for
+this role.
+
+80
+00:05:33,770 --> 00:05:38,090
+And that's not something difficult to do,
+basically.
+
+81
+00:05:38,090 --> 00:05:43,940
+You just have to maybe organize say,
+we have
+
+82
+00:05:43,940 --> 00:05:48,860
+an appointment this week in this coffee
+place where we're gonna discuss the MOOC.
+
+83
+00:05:48,860 --> 00:05:52,030
+It's free, and everybody's welcome.
+
+84
+00:05:52,030 --> 00:05:56,110
+If you just do that, you would be
+the local ambassador for your city, and
+
+85
+00:05:56,110 --> 00:05:57,190
+that would be amazing.
+
+86
+00:05:57,190 --> 00:05:59,240
+You would help many people around you.
+
+87
+00:06:00,850 --> 00:06:05,430
+So to conclude, what did I want to add?
+
+88
+00:06:05,430 --> 00:06:09,380
+Yeah, just welcome in this course.
+
+89
+00:06:09,380 --> 00:06:13,120
+If you want to reach me through emails,
+
+90
+00:06:13,120 --> 00:06:18,540
+we have many participants, as I hope
+we'll have, emails is not gonna work.
+
+91
+00:06:18,540 --> 00:06:22,970
+So the easier would be to just
+send me hi on Twitter, so
+
+92
+00:06:22,970 --> 00:06:27,640
+my Twitter address is this one,
+if my video works, will see that.
+
+93
+00:06:27,640 --> 00:06:29,990
+And on the forums.
+
+94
+00:06:29,990 --> 00:06:35,770
+I will be active on the forums, and
+I'm going to interact with you there.
+
+95
+00:06:35,770 --> 00:06:39,420
+So, at the end of this course
+you will be able to create,
+
+96
+00:06:40,680 --> 00:06:47,170
+to build mobile apps that will work on
+any devices, that's going to be your app.
+
+97
+00:06:47,170 --> 00:06:49,310
+And that's gonna be fantastic.
+
+98
+00:06:49,310 --> 00:06:53,860
+So I just can't wait to see
+what you're going to create.
+
+99
+00:06:53,860 --> 00:06:55,912
+So welcome, and let's do it!
